@@ -5,6 +5,6 @@
 
 ----
 Tanto a aula quanto o artigo foram desenvolvidos por:
-- (Alex Koji)[https://github.com/kojimisumi]
-- (Camilla Fonseca | |@fonsecamilla)[https://github.com/fonsecamilla]
-- (Vitoria Rodrigues | @vitoriars)[https://github.com/vitoriars]
+- Alex Koji | [@kojimisumi](https://github.com/kojimisumi)
+- Camilla Fonseca | |[@fonsecamilla](https://github.com/fonsecamilla)
+- Vitoria Rodrigues | [@vitoriars](https://github.com/vitoriars)
